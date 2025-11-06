@@ -1,5 +1,7 @@
 <!---
 {
+  "id": "d23d274a-248e-448e-87d2-1ccba2183f4c",
+  "depends_on": [],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-02",
   "keywords": ["Functions", "Cardinality", "Datatypes", "Mengenlehre", "C Language"]
